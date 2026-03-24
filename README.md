@@ -39,7 +39,6 @@ Data is collected from two primary sources:
 
 ## Tools & Methods
 - **R** (ggplot2, tidyverse, sf for any spatial components)
-- **Tableau** (for interactive dashboard presentation)
 - Data cleaning and transformation in R
 - Version control via GitHub
 
