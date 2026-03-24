@@ -10,7 +10,7 @@ effect March 2025 under the "Respect The Call" initiative.
 The original version of this project aims to collect from two sources, with more 
 possible later.
 
-Data is collected from two primary sources
+Data is collected from two primary sources:
 - Washington State Referee Committee (WASRC)
 - US Youth Soccer Boys National Championships — Salt Lake City & Provo, UT 
   (July 13–23, 2026)
