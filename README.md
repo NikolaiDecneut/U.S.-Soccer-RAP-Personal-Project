@@ -54,4 +54,4 @@ Data is collected from two primary sources:
 
 ## Contact
 Nikolai Decneut | Student at the University of Washington  
-ndecneut@outlook.com | nikola1@uw.edu | (https://github.com/NikolaiDecneut)
+ndecneut@outlook.com | nikola1@uw.edu | https://github.com/NikolaiDecneut | 425-749-1220
