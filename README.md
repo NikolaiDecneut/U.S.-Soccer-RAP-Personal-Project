@@ -7,9 +7,10 @@ patterns of referee abuse in youth soccer following the implementation of U.S.
 Soccer's updated Referee Abuse Prevention Policy (RAP, Policy 531-9), which took 
 effect March 2025 under the "Respect The Call" initiative.
 
-Data is collected from two primary sources:
 The original version of this project aims to collect from two sources, with more 
 possible later.
+
+Data is collected from two primary sources
 - Washington State Referee Committee (WASRC)
 - US Youth Soccer Boys National Championships — Salt Lake City & Provo, UT 
   (July 13–23, 2026)
