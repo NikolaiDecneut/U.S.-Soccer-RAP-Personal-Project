@@ -33,9 +33,9 @@ Data is collected from two primary sources:
 - Abuse type (verbal taunting, threatening language, physical contact, etc.)
 - Sanction level (Level 1–4 non-physical; Level 1–3 physical)
 - Referee age/experience level
-- Match type (recreational, competitive, national)
+- Match type (recreational, select, premier, ECNL, MLS Next)
 - Reporter role (referee, coach, spectator, administrator)
-- Geographic region (WA state vs. national event)
+- Geographic region(s) (WA state vs. national event)
 
 ## Tools & Methods
 - **R** (ggplot2, tidyverse, sf for any spatial components)
