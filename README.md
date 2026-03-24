@@ -17,9 +17,9 @@ Data is collected from two primary sources:
 
 ## Objectives
 - Visualize the frequency, type, and severity of reported referee abuse incidents
-- Identify trends by age group, competition level, and geographic region
-- Compare pre- and post-RAP policy data where available
-- Highlight gaps in reporting and enforcement at the grassroots level
+- Identify trends by age group, competition level, and referee years of experience
+- Compare pre- and post-RAP policy data where and if available
+- Highlight gaps in reporting and enforcement at the grassroots level, if possible
 
 ## Data Sources
 | Source | Type | Access Method |
