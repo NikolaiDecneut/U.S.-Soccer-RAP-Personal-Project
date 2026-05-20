@@ -43,7 +43,7 @@ Data is collected from two primary sources:
 - Version control via GitHub
 
 ## Project Structure
--TBC
+-TBC (Expected, late June 2026)
 
 ## Ethics & Privacy
 - All individual data is anonymized; no personally identifiable information (PII) 
