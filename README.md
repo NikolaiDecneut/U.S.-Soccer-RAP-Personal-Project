@@ -38,8 +38,8 @@ Data is collected from two primary sources:
 - Geographic region(s) (WA state vs. national event)
 
 ## Tools & Methods
-- **R** (ggplot2, tidyverse, sf for any spatial components)
-- Data cleaning and transformation in R
+- **R or D3** (ggplot2, tidyverse, sf for any spatial components)
+- Data cleaning and transformation in R or D3
 - Version control via GitHub
 
 ## Project Structure
